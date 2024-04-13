@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayelma" alt="tayelma" /></a> </p>
 
-- 🔭 I’m currently working on **using AWS Glue to perform ETL on a sample carbon emission data in Africa.**
+- 🔭 I’m currently working on **using AWS Glue to perform ETL on a sample C02 emission data in Africa.**
 
 - 👯 I’m currently working on [growing and expanding my foundation](https://www.ycem.org/))
 
@@ -15,33 +15,16 @@
 <p align="left">I'm passionate about sharing my cloud journey and inspring others on their personal tech journeys. I have had the opportunity to speak at various events. Here are some pictures:</p>
 
 
-<!-- <h3 align="left">Public Speaking:</h3> -->
-<!--<p align="left">I'm passionate about public speaking and have had the opportunity to speak at various events. Here are some pictures:</p> -->
-
 <!-- Container for the event pictures -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+ 
   <!-- Each event picture -->
   <img src="https://media.licdn.com/dms/image/D4E22AQE-eom_OoKEtg/feedshare-shrink_1280/0/1699259656821?e=1715817600&v=beta&t=pcXK7EldHwGQyr2y4TTCvud_PgyS4Mk-2-a1kah-3vw" alt="Event 1" style="width: 200px; margin: 5px;">
   <img src="https://media.licdn.com/dms/image/D4E22AQHRVDs0sXoIdQ/feedshare-shrink_1280/0/1690909565619?e=1715817600&v=beta&t=vFfGn0B1fJR6njJgkHsAP2XFN0ci292qYqAyujKh3cU" alt="Event 2" style="width: 300px; margin: 5px;">
- <!-- <img src="https://media.licdn.com/dms/image/C4E22AQFh_SOmRAE1Ag/feedshare-shrink_2048_1536/0/1648328026005?e=1715817600&v=beta&t=P8p5y6mgpjQL7qdiX2Tm4m4bV59W0A-no3n-rfpcNrI" alt="Event 2" style="width: 200px; margin: 5px;">
-  <img src="" alt="Event 1" style="width: 200px; margin: 5px;"> -->
   <img src="https://media.licdn.com/dms/image/D4D22AQEqHRbyhLBBYA/feedshare-shrink_1280/0/1708889658650?e=1715817600&v=beta&t=8Ti3mOpL-0uCzO3kDNkrDhnmYFPZu706yucc4mH1M9I" alt="Event 2" style="width: 200px; height: 1000; margin: 10px;">
   <img src="https://media.licdn.com/dms/image/C4E22AQFh_SOmRAE1Ag/feedshare-shrink_2048_1536/0/1648328026005?e=1715817600&v=beta&t=P8p5y6mgpjQL7qdiX2Tm4m4bV59W0A-no3n-rfpcNrI" alt="Event 1" style="width: 400px; height: 200; margin: 50px;">
   <!-- Add more event pictures as needed -->
 </div>
-
-<!-- Add your event pictures below 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4E22AQE-eom_OoKEtg/feedshare-shrink_1280/0/1699259656821?e=1715817600&v=beta&t=pcXK7EldHwGQyr2y4TTCvud_PgyS4Mk-2-a1kah-3vw" alt="Event 1">
-  <img src="https://media.licdn.com/dms/image/D4E22AQHRVDs0sXoIdQ/feedshare-shrink_1280/0/1690909565619?e=1715817600&v=beta&t=vFfGn0B1fJR6njJgkHsAP2XFN0ci292qYqAyujKh3cU" alt="Event 2">
-  <img src="https://media.licdn.com/dms/image/C4E22AQFh_SOmRAE1Ag/feedshare-shrink_2048_1536/0/1648328026005?e=1715817600&v=beta&t=P8p5y6mgpjQL7qdiX2Tm4m4bV59W0A-no3n-rfpcNrI" alt="Event 1">
-  <img src="https://media.licdn.com/dms/image/D4D22AQEqHRbyhLBBYA/feedshare-shrink_1280/0/1708889658650?e=1715817600&v=beta&t=8Ti3mOpL-0uCzO3kDNkrDhnmYFPZu706yucc4mH1M9I" alt="Event 2">
-  <!-- Add more event pictures as needed 
-</div> -->
-
-<p> </p>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -50,9 +33,6 @@
 <a href="https://instagram.com/ycem_org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycem_org" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@YCEMGh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ycem gh" height="30" width="40" /></a>
 </p>
-
-<p> </p>
-
 
 
 
