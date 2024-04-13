@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thelma (hilary n. a.) laryea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelma (hilary n. a.) laryea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thelma-laryea-73a49b1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelma (hilary n. a.) laryea" height="30" width="40" /></a>
 <a href="https://instagram.com/ycem_org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycem_org" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ycem gh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ycem gh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YCEMGh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ycem gh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
